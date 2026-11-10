@@ -1,0 +1,12 @@
+streamlit
+requests
+pillow
+numpy
+imageio
+imageio-ffmpeg
+gradio_client
+edge-tts
+gTTS
+huggingface_hub
+opencv-python-headless
+google-genai
